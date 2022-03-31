@@ -2,7 +2,7 @@
 
 int main(){
 
- printf "hello Mundinhu :D"
- printf "tchau mundinhu :c"
+ printf "hello Mundinhoo :D"
+ printf "tchau mundinhoo :c"
  return 0;
  }
