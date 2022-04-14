@@ -1,1 +1,6 @@
-Não é facil né colega
+#include <stdio.h>
+
+int main ()
+{
+    printf("Nao e facil ne colega");
+}
