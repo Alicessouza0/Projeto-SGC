@@ -2,5 +2,5 @@
 
 int main ()
 {
-    printf("Nao e facil ne colega");
+    printf("OLA BRAZILL");
 }
